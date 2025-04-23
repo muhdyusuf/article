@@ -18,6 +18,9 @@ Many free apps and software make money in ways that you don’t see. One of the 
 
 Some even track what you say, who you talk to, and where you go. This isn't just about ads—your digital life is being watched, stored, and traded.
 
+> **“Surveillance is the business model of the internet.”**  
+> — Bruce Schneier, cybersecurity expert, *Data and Goliath (2015)*
+
 ## 😨 Why Should You Care?
 
 Imagine someone watching everything you do online—what you search, where you go, who you talk to—and then selling that information to advertisers, data brokers, or other third parties. Over time, this can lead to:
@@ -26,6 +29,8 @@ Imagine someone watching everything you do online—what you search, where you g
 - **Identity theft or scams**  
 - **Loss of control over your personal life**  
 - **Manipulated content based on your behavior**
+
+In *The Age of Surveillance Capitalism* by Shoshana Zuboff (2019), the author explains how companies turn your behavior into profit—by predicting, influencing, and even changing what you do next.
 
 Privacy is like trust—once it’s gone, it’s hard to get back.
 
@@ -39,6 +44,9 @@ Even if an app or software looks innocent, pay attention to the signs:
 - ✅ The privacy policy is confusing or hard to find.
 
 And no—just because it's made by a big company doesn't mean your data is safe. In fact, big companies often rely heavily on data collection as part of their business model.
+
+> “The goal is to automate us... but the real goal is to make money from us.”  
+> — Shoshana Zuboff, *The Age of Surveillance Capitalism*
 
 ## 💡 What Can You Do?
 
@@ -57,3 +65,10 @@ The next time you download a “free” app or software, remember:
 > “If you're not paying with money, you might be paying with your privacy.”
 
 There’s no such thing as truly free software. Stay curious, ask questions, and protect your digital self. Your data is valuable—treat it that way.
+
+---
+
+### 📚 References:
+- Bruce Schneier, *Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World*, 2015  
+- Shoshana Zuboff, *The Age of Surveillance Capitalism*, 2019  
+- Harvard Business Review, *What You’re Getting Wrong About Privacy*, 2019  
